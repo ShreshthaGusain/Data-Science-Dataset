@@ -1,0 +1,104 @@
+shop_id,location,size,rent,deposit,property_type,furnishing,id_req,park_sqft,maintenance_cost,road_premium
+SHP001,Rajpur Road,1200,95000,300000,Complex,Semi,1,350,8500,25
+SHP002,Paltan Bazaar,450,55000,150000,Street,Unfurnished,0,0,1200,15
+SHP003,Jakhan,800,60000,200000,Mall,Furnished,1,200,5200,20
+SHP004,Clement Town,600,25000,75000,Street,Unfurnished,0,120,1500,5
+SHP005,Prem Nagar,500,22000,60000,Street,Semi,0,0,1000,10
+SHP006,Vasant Vihar,1000,70000,250000,Indep,Furnished,1,400,3500,15
+SHP007,Dharampur,750,40000,100000,Street,Unfurnished,0,80,2000,8
+SHP008,Patel Nagar,850,35000,100000,Complex,Unfurnished,0,150,2800,10
+SHP009,Sahastradhara Road,1500,85000,250000,Indep,Semi,1,500,4500,18
+SHP010,Clock Tower,300,45000,100000,Street,Unfurnished,0,0,1500,30
+SHP011,Rajpur Road,2000,135250,475000,Mall,Furnished,1,600,10350,25
+SHP012,Jakhan,650,45000,150000,Complex,Unfurnished,1,150,4200,12
+SHP013,Paltan Bazaar,250,35000,100000,Street,Unfurnished,0,0,800,20
+SHP014,ISBT Area,1200,65000,200000,Complex,Semi,1,300,6000,15
+SHP015,Prem Nagar,400,18000,50000,Street,Unfurnished,0,0,800,5
+SHP016,Vasant Vihar,1100,75000,250000,Complex,Semi,1,350,7500,18
+SHP017,Clement Town,800,32000,100000,Street,Semi,0,150,2000,8
+SHP018,Dharampur,550,28000,80000,Street,Unfurnished,0,0,1200,10
+SHP019,Sahastradhara Road,900,50000,150000,Complex,Unfurnished,1,200,4000,12
+SHP020,Clock Tower,500,65000,200000,Street,Semi,1,0,2200,25
+SHP021,Rajpur Road,1500,130000,400000,Indep,Furnished,1,500,6000,22
+SHP022,Jakhan,1000,75000,250000,Mall,Semi,1,300,9000,18
+SHP023,Paltan Bazaar,350,48000,150000,Street,Unfurnished,0,0,1000,15
+SHP024,ISBT Area,800,40000,120000,Street,Unfurnished,0,100,1800,10
+SHP025,Prem Nagar,900,38000,100000,Complex,Semi,0,200,3200,8
+SHP026,Patel Nagar,1200,55000,150000,Indep,Unfurnished,0,350,3000,12
+SHP027,Clement Town,450,20000,60000,Street,Unfurnished,0,50,1000,5
+SHP028,Dharampur,1000,48000,150000,Complex,Semi,1,250,4500,12
+SHP029,Sahastradhara Road,1200,65000,200000,Street,Furnished,1,300,3500,15
+SHP030,Clock Tower,400,55000,150000,Street,Unfurnished,0,0,1800,20
+SHP031,Rajpur Road,800,80000,250000,Mall,Semi,1,250,7500,20
+SHP032,Jakhan,1200,90000,300000,Indep,Unfurnished,1,400,4000,15
+SHP033,Paltan Bazaar,600,75000,200000,Street,Semi,0,0,1600,18
+SHP034,ISBT Area,1500,85000,250000,Complex,Furnished,1,450,9500,15
+SHP035,Prem Nagar,300,15000,40000,Street,Unfurnished,0,0,600,5
+SHP036,Vasant Vihar,850,60000,180000,Street,Semi,1,200,2500,12
+SHP037,Clement Town,1000,40000,120000,Complex,Unfurnished,0,250,3500,8
+SHP038,Dharampur,650,32000,100000,Street,Unfurnished,0,0,1400,10
+SHP039,Sahastradhara Road,750,42000,120000,Street,Semi,1,150,2200,10
+SHP040,Clock Tower,600,80000,250000,Complex,Furnished,1,100,5000,25
+SHP041,Rajpur Road,2175,135250,475000,Indep,Furnished,1,800,8500,30
+SHP042,Jakhan,400,35000,100000,Street,Unfurnished,0,50,1200,10
+SHP043,Paltan Bazaar,500,60000,180000,Street,Unfurnished,0,0,1400,15
+SHP044,ISBT Area,950,48000,150000,Complex,Semi,1,250,4800,12
+SHP045,Prem Nagar,600,26000,80000,Street,Unfurnished,0,80,1200,5
+SHP046,Patel Nagar,1500,70000,200000,Indep,Semi,1,450,4000,15
+SHP047,Clement Town,350,16000,50000,Street,Unfurnished,0,0,700,5
+SHP048,Dharampur,1200,55000,180000,Complex,Furnished,1,300,5800,15
+SHP049,Sahastradhara Road,2000,110000,300000,Mall,Furnished,1,550,10350,20
+SHP050,Clock Tower,250,38000,100000,Street,Unfurnished,0,0,1100,20
+SHP051,Rajpur Road,1000,90000,270000,Complex,Unfurnished,1,300,7000,20
+SHP052,Paltan Bazaar,300,40000,120000,Street,Unfurnished,0,0,900,15
+SHP053,Jakhan,1500,110000,350000,Indep,Semi,1,500,5500,18
+SHP054,Clement Town,500,22000,65000,Street,Semi,0,100,1200,5
+SHP055,Prem Nagar,700,29000,85000,Street,Furnished,0,120,1800,8
+SHP056,Vasant Vihar,1200,82000,250000,Complex,Unfurnished,1,350,6500,15
+SHP057,Dharampur,800,42000,120000,Street,Semi,0,150,2200,10
+SHP058,Patel Nagar,1000,45000,130000,Complex,Semi,0,250,3800,12
+SHP059,Sahastradhara Road,1100,58000,170000,Street,Unfurnished,1,250,2800,12
+SHP060,Clock Tower,350,50000,150000,Street,Furnished,1,0,2000,22
+SHP061,Rajpur Road,1800,135250,450000,Mall,Semi,1,500,10350,25
+SHP062,Jakhan,900,65000,200000,Complex,Furnished,1,250,6500,15
+SHP063,Paltan Bazaar,400,50000,150000,Street,Semi,0,0,1300,15
+SHP064,ISBT Area,1100,58000,180000,Complex,Unfurnished,1,250,4500,12
+SHP065,Prem Nagar,450,19500,55000,Street,Unfurnished,0,0,900,5
+SHP066,Vasant Vihar,950,68000,200000,Indep,Semi,1,300,3200,15
+SHP067,Clement Town,750,30000,90000,Street,Furnished,0,150,2200,8
+SHP068,Dharampur,900,45000,130000,Street,Semi,0,180,2400,10
+SHP069,Sahastradhara Road,1300,70000,210000,Complex,Furnished,1,350,7800,18
+SHP070,Clock Tower,450,60000,180000,Street,Unfurnished,0,0,1600,20
+SHP071,Rajpur Road,1300,115000,350000,Indep,Unfurnished,1,400,4500,20
+SHP072,Jakhan,750,55000,160000,Street,Semi,1,150,2500,12
+SHP073,Paltan Bazaar,550,68000,200000,Street,Semi,0,0,1800,18
+SHP074,ISBT Area,1300,72000,220000,Complex,Semi,1,350,6800,15
+SHP075,Prem Nagar,800,34000,100000,Complex,Furnished,0,180,2800,8
+SHP076,Patel Nagar,1100,50000,150000,Street,Unfurnished,0,200,2500,10
+SHP077,Clement Town,400,18000,55000,Street,Semi,0,60,1100,5
+SHP078,Dharampur,1100,52000,160000,Complex,Unfurnished,0,250,4200,12
+SHP079,Sahastradhara Road,1000,55000,160000,Street,Semi,1,200,2600,12
+SHP080,Clock Tower,550,72000,210000,Complex,Semi,1,120,4200,22
+SHP081,Rajpur Road,900,85000,260000,Mall,Unfurnished,1,300,8000,20
+SHP082,Jakhan,1300,98000,300000,Indep,Furnished,1,450,5200,18
+SHP083,Paltan Bazaar,650,80000,240000,Street,Furnished,0,0,2200,20
+SHP084,ISBT Area,1600,90000,270000,Indep,Semi,1,500,4800,15
+SHP085,Prem Nagar,350,16500,50000,Street,Semi,0,0,850,5
+SHP086,Vasant Vihar,1300,90000,270000,Complex,Furnished,1,400,8500,18
+SHP087,Clement Town,900,36000,110000,Street,Unfurnished,0,150,2200,8
+SHP088,Dharampur,700,35000,100000,Street,Furnished,0,120,2000,10
+SHP089,Sahastradhara Road,850,47000,140000,Complex,Semi,1,200,3800,12
+SHP090,Clock Tower,650,85000,250000,Street,Semi,1,0,2600,25
+SHP091,Rajpur Road,2175,135250,475000,Indep,Semi,1,700,7500,25
+SHP092,Jakhan,500,40000,120000,Street,Semi,0,80,1500,10
+SHP093,Paltan Bazaar,700,85000,250000,Street,Unfurnished,0,0,2000,18
+SHP094,ISBT Area,1000,52000,150000,Complex,Unfurnished,1,250,4200,12
+SHP095,Prem Nagar,650,28000,85000,Street,Furnished,0,100,1600,8
+SHP096,Patel Nagar,1600,75000,220000,Indep,Furnished,1,500,4500,15
+SHP097,Clement Town,550,24000,70000,Street,Semi,0,80,1300,5
+SHP098,Dharampur,1300,60000,180000,Indep,Semi,0,350,3800,12
+SHP099,Sahastradhara Road,1800,100000,300000,Mall,Semi,1,450,10350,20
+SHP100,Clock Tower,320,46000,130000,Street,Semi,1,0,1700,20
+SHP101,Rajpur Road,2175,135250,475000,Mall,Furnished,1,812.5,10350,32.5
+SHP102,Prem Nagar,200,55000,25000,Street,Unfurnished,0,0,500,0
+SHP103,Jakhan,1400,92000,280000,Complex,Semi,1,180,6000,15
